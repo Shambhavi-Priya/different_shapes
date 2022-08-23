@@ -1,0 +1,23 @@
+.circle{
+    height: 300px;
+    width: 300px;
+    background-color: lime;
+    outline: ;
+    border-radius:200%;
+    display:inline-block;
+    outline:100px solid red;
+    margin-top: 200px; 
+   }
+.rectangle{
+    height:300px;
+    width: 100px;
+    background-color: brown;
+
+}
+.triangle{
+    height: 0px;
+    width: 0px;
+    border-left: 200px solid transparent;
+	border-right: 200px solid transparent;
+	border-bottom: 200px solid yellow;
+}
